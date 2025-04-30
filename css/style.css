@@ -1,0 +1,18 @@
+h2{
+    font-size: 3rem;
+    text-align: center;
+     padding-top: 5%;
+     padding-bottom: 20px;
+}
+button{
+    padding: 8px 15px;
+    background-color: green;
+    color: bisque;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+button:hover{
+    opacity: 0.8;
+}
